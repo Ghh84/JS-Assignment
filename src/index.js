@@ -1,5 +1,7 @@
 // 1. Add function code goes here
-exports.add = function add() {};
+exports.add = function add(num1, num2) {
+  return num1+num2;
+};
 
 // 2. Multiply function code goes here
 exports.multiply = function multiply() {};
